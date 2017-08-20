@@ -10,6 +10,7 @@ namespace StringRepeater
     {
         static void Main(string[] args)
         {
+            //local change1
             //int[] input1 = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
             string input1 = Console.ReadLine();
             int input2 = int.Parse(Console.ReadLine());
