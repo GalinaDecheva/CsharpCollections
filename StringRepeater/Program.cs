@@ -10,10 +10,10 @@ namespace StringRepeater
     {
         static void Main(string[] args)
         {
-            //int[] input1 = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+          
             string input1 = Console.ReadLine();
             int input2 = int.Parse(Console.ReadLine());
-            StringRepeater(input1, input2);
+            Console.WriteLine(StringRepeater(input1, input2));
         }
 
         static string StringRepeater(string str, int count)
@@ -22,7 +22,7 @@ namespace StringRepeater
 
             for (int i = 0; i < count; i++)
             {
-                Console.WriteLine();
+                StringRepeater += str;
             }
             return StringRepeater;
         }
