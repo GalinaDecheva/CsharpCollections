@@ -10,8 +10,8 @@ namespace StringRepeater
     {
         static void Main(string[] args)
         {
-            //int input1 = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
-            string[] input1 = Console.ReadLine().Split(' ');
+            //int[] input1 = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            string input1 = Console.ReadLine();
             int input2 = int.Parse(Console.ReadLine());
             StringRepeater(input1, input2);
         }
