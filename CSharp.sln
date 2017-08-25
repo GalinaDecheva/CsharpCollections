@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthDigit", "NthDigit\NthDig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToBase", "IntegerToBase\IntegerToBase.csproj", "{82C31B9A-3EE0-4CDE-9BFA-08723FAF7018}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifications", "Notifications\Notifications.csproj", "{4BCB11E3-2201-48BF-917A-EB5B5EB9BB24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{82C31B9A-3EE0-4CDE-9BFA-08723FAF7018}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82C31B9A-3EE0-4CDE-9BFA-08723FAF7018}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82C31B9A-3EE0-4CDE-9BFA-08723FAF7018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCB11E3-2201-48BF-917A-EB5B5EB9BB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCB11E3-2201-48BF-917A-EB5B5EB9BB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCB11E3-2201-48BF-917A-EB5B5EB9BB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCB11E3-2201-48BF-917A-EB5B5EB9BB24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
