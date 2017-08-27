@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToBase", "IntegerToB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifications", "Notifications\Notifications.csproj", "{4BCB11E3-2201-48BF-917A-EB5B5EB9BB24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberstoWords", "NumberstoWords\NumberstoWords.csproj", "{3D9217D6-77A0-4DD5-987B-8FD794BE752C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumToWord", "NumToWord\NumToWord.csproj", "{735DD39F-F9FE-403F-82E7-D204CD9F59A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{4BCB11E3-2201-48BF-917A-EB5B5EB9BB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BCB11E3-2201-48BF-917A-EB5B5EB9BB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BCB11E3-2201-48BF-917A-EB5B5EB9BB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9217D6-77A0-4DD5-987B-8FD794BE752C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9217D6-77A0-4DD5-987B-8FD794BE752C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9217D6-77A0-4DD5-987B-8FD794BE752C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9217D6-77A0-4DD5-987B-8FD794BE752C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735DD39F-F9FE-403F-82E7-D204CD9F59A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735DD39F-F9FE-403F-82E7-D204CD9F59A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735DD39F-F9FE-403F-82E7-D204CD9F59A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735DD39F-F9FE-403F-82E7-D204CD9F59A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
