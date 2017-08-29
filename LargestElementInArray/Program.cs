@@ -13,7 +13,6 @@ namespace LargestElementInArray
         {
             int n = int.Parse(Console.ReadLine());
             int[] arr = new int[n];
-            int a = 0;
             int max = Int32.MinValue;
             for (int i = 0; i < arr.Length; i++)
             {
