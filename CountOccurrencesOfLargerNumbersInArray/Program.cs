@@ -4,24 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CountofGivenElementinArray
+namespace CountOccurrencesOfLargerNumbersInArray
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[] input1 = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
-
-            int input2 = int.Parse(Console.ReadLine());
-
+            double[] arr = Console.ReadLine().Split(' ').Select(double.Parse).ToArray();
+            double m = double.Parse(Console.ReadLine());
             int count = 0;
-
-            for (int i = 0; i < input1.Length; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
-                if (input1[i] == input2)
+                if (arr[i] >= m)
                 {
                     count += 1;
-
                 }
             }
             Console.WriteLine(count);
