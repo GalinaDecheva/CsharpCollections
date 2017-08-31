@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreasingSequenceOfElement
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSequenceOfElementsInArray", "EqualSequenceOfElementsInArray\EqualSequenceOfElementsInArray.csproj", "{6604F6F1-EB99-481B-8C65-AFB4DA71B678}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountOfCapitalLettersInArray", "CountOfCapitalLettersInArray\CountOfCapitalLettersInArray.csproj", "{3AEED242-CB96-4670-BBC9-717CC29A0D6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{6604F6F1-EB99-481B-8C65-AFB4DA71B678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6604F6F1-EB99-481B-8C65-AFB4DA71B678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6604F6F1-EB99-481B-8C65-AFB4DA71B678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AEED242-CB96-4670-BBC9-717CC29A0D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEED242-CB96-4670-BBC9-717CC29A0D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEED242-CB96-4670-BBC9-717CC29A0D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEED242-CB96-4670-BBC9-717CC29A0D6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
