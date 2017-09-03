@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountOfCapitalLettersInArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySymmetry", "ArraySymmetry\ArraySymmetry.csproj", "{17694800-FA14-4200-8FC7-264C565EA785}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altitude", "Altitude\Altitude.csproj", "{C41A1426-7602-4637-90DF-E83AF0A944B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{17694800-FA14-4200-8FC7-264C565EA785}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17694800-FA14-4200-8FC7-264C565EA785}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17694800-FA14-4200-8FC7-264C565EA785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41A1426-7602-4637-90DF-E83AF0A944B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41A1426-7602-4637-90DF-E83AF0A944B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41A1426-7602-4637-90DF-E83AF0A944B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41A1426-7602-4637-90DF-E83AF0A944B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
