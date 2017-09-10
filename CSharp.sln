@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySymmetry", "ArraySymme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altitude", "Altitude\Altitude.csproj", "{C41A1426-7602-4637-90DF-E83AF0A944B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativesAndReverse", "RemoveNegativesAndReverse\RemoveNegativesAndReverse.csproj", "{61A46A49-F488-4285-BBB3-64A2AED5F5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveDemo", "LiveDemo\LiveDemo.csproj", "{9C0E179F-597D-4FE9-AE92-EB61F46C3E06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{C41A1426-7602-4637-90DF-E83AF0A944B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C41A1426-7602-4637-90DF-E83AF0A944B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C41A1426-7602-4637-90DF-E83AF0A944B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A46A49-F488-4285-BBB3-64A2AED5F5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A46A49-F488-4285-BBB3-64A2AED5F5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A46A49-F488-4285-BBB3-64A2AED5F5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A46A49-F488-4285-BBB3-64A2AED5F5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0E179F-597D-4FE9-AE92-EB61F46C3E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0E179F-597D-4FE9-AE92-EB61F46C3E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0E179F-597D-4FE9-AE92-EB61F46C3E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0E179F-597D-4FE9-AE92-EB61F46C3E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
