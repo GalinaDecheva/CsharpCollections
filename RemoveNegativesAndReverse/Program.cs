@@ -10,11 +10,23 @@ namespace RemoveNegativesAndReverse
     {
         static void Main(string[] args)
         {
-            List<int> list = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
+            //List<int> list = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
 
-            list.RemoveAll(a => a < 0);
-            list.Reverse();
-            Console.WriteLine(list.Count == 0 ? "empty": string.Join(" ", list));
+            //list.RemoveAll(a => a < 0);
+            //list.Reverse();
+            //Console.WriteLine(list.Count == 0 ? "empty": string.Join(" ", list));
+
+            List<int> list = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
+            List<int> result = new List<int>();
+            for (int i = 0; i < list.Count; i++)
+            {
+                if (list[i] >= 0)
+                {
+                    result.Add(list[i]);
+                }
+            }
+            result.Reverse();
+            Console.WriteLine(result.Count == 0 ?"empty":string.Join(" ", result));
 
         }
     }
