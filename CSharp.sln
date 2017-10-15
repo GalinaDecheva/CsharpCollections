@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex", "Regex\Regex.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchFullName", "MatchFullName\MatchFullName.csproj", "{D0450E08-879B-4DA4-B238-5CA7E1BE5052}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToOverwriteToString", "HowToOverwriteToString\HowToOverwriteToString.csproj", "{3A6E8444-7229-407D-A765-608F7338881C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{FCFD9146-C14C-473D-9EC0-08A8834DFF1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{D0450E08-879B-4DA4-B238-5CA7E1BE5052}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0450E08-879B-4DA4-B238-5CA7E1BE5052}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0450E08-879B-4DA4-B238-5CA7E1BE5052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6E8444-7229-407D-A765-608F7338881C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6E8444-7229-407D-A765-608F7338881C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6E8444-7229-407D-A765-608F7338881C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6E8444-7229-407D-A765-608F7338881C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFD9146-C14C-473D-9EC0-08A8834DFF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFD9146-C14C-473D-9EC0-08A8834DFF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFD9146-C14C-473D-9EC0-08A8834DFF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFD9146-C14C-473D-9EC0-08A8834DFF1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
