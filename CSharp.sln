@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResizableArray", "Resizable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendLists", "AppendLists\AppendLists.csproj", "{D71BECAE-174B-4382-84D5-9E0E73E80CDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex", "Regex\Regex.csproj", "{FF643CE4-C39C-4381-8F23-0BF8BF4162F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchFullName", "MatchFullName\MatchFullName.csproj", "{D0450E08-879B-4DA4-B238-5CA7E1BE5052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{D71BECAE-174B-4382-84D5-9E0E73E80CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D71BECAE-174B-4382-84D5-9E0E73E80CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D71BECAE-174B-4382-84D5-9E0E73E80CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF643CE4-C39C-4381-8F23-0BF8BF4162F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF643CE4-C39C-4381-8F23-0BF8BF4162F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF643CE4-C39C-4381-8F23-0BF8BF4162F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF643CE4-C39C-4381-8F23-0BF8BF4162F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0450E08-879B-4DA4-B238-5CA7E1BE5052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0450E08-879B-4DA4-B238-5CA7E1BE5052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0450E08-879B-4DA4-B238-5CA7E1BE5052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0450E08-879B-4DA4-B238-5CA7E1BE5052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
